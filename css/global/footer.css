@@ -51,7 +51,7 @@
   }
   .footer {
     grid-template-columns: 1fr 1fr;
-  }git 
+  }
 }
 
 @media (max-width: 600px) {
